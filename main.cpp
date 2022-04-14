@@ -6,12 +6,14 @@ using namespace std;
 
 int main()
 {
-    int a, b, c, f;
+    int a, b, c, f, j;
       cout << "Enter two numbers";
       cin >> a >> b;
       c = a + b;
       cout << "C = a+b = " << c;
       f = a - b;
       cout << "F = a-b = " << f;
+      j = a/b;
+      cout << "J = a/b = " << j;
       return 0;
 }
