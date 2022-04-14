@@ -1,5 +1,5 @@
 //the program is educational
-
+// Author: Antipina Elena KE-317, 2022
 #include <iostream>
 
 using namespace std;
